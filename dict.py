@@ -11,4 +11,4 @@ def dict(path):
             make_dict[path].append(dict(make_path))
     return make_dict
 
-print(dict("C:\\Users\\posto\\Desktop\\python"))
+print(dict())
